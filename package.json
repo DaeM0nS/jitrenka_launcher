@@ -2,12 +2,12 @@
     "name": "pixelhorizon-launcher",
     "productname": "Pixel'Horizon Launcher",
     "version": "1.0.0",
-    "description": "Pixel'Horizon Launcher made by DaeM0nS",
+    "description": "Pixel'Horizon Launcher - Made by DaeM0nS",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, DaeM0nS, Inc.",
         "email": "contact@luuxis.fr",
-        "url": "https://github.com/luuxis"
+        "url": "https://github.com/DaeM0nS/pixelhorizon_launcher_data.git"
     },
     "url": "https://pixelhorizon.fr/launcher",
     "scripts": {
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://gitlab.com/DaeM0nS/jitrenka_launcher.git"
+        "url": "git+https://github.com/DaeM0nS/pixelhorizon_launcher_data.git"
     }
 }
