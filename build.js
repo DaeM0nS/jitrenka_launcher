@@ -62,7 +62,7 @@ class Index {
         await this.Obfuscate();
         builder.build({
             config: {
-                generateUpdatesFilesForAllChannels: true,
+                generateUpdatesFilesForAllChannels: false,
                 appId: productname,
                 productName: productname,
                 copyright: 'Copyright © 2020-2024 Luuxis - DaeM0nS',
