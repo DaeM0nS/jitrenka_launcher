@@ -7,7 +7,7 @@
     "author": {
         "name": "luuxis, DaeM0nS, Inc.",
         "email": "contact@luuxis.fr",
-        "url": "https://github.com/DaeM0nS/pixelhorizon_launcher_data.git"
+        "url": "https://github.com/DaeM0nS/jitrenka_launcher.git"
     },
     "url": "https://pixelhorizon.fr/launcher",
     "scripts": {
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DaeM0nS/pixelhorizon_launcher_data.git"
+        "url": "git+https://github.com/DaeM0nS/jitrenka_launcher.git"
     }
 }
